@@ -72,4 +72,6 @@ web_modules/
 .env
 .env.test
 
+.DS_Store
+
 
