@@ -1,0 +1,5 @@
+{
+	"defaultFilePath": "./src/input/input.txt",
+	"speedUnit": "mph",
+	"distanceUnit": "miles"
+}

@@ -1,0 +1,23 @@
+{
+	"name": "driver-app",
+	"version": "1.0.0",
+	"description": "Code sample as part of Root interview process",
+	"main": "app.js",
+	"scripts": {
+		"start": "node app.js $npm_config_file",
+		"test": "jest --coverage"
+	},
+	"author": "",
+	"license": "ISC",
+	"type": "module",
+	"devDependencies": {
+		"@babel/core": "^7.12.10",
+		"@babel/plugin-transform-modules-commonjs": "^7.12.1",
+		"@babel/preset-env": "^7.12.10",
+		"babel-jest": "^26.6.3",
+		"jest": "^26.6.3"
+	},
+	"dependencies": {
+		"config": "^3.3.3"
+	}
+}
